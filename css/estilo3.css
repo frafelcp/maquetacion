@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: black;
+}
+
+body{
+    width: 1000px;
+    height: 950px;
+    margin: auto;
+    background-color: darkkhaki;
+}
+
+#box{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: aliceblue;
+}
+
+header{
+    width: 1000px;
+    height: 300px;
+    background-color: brown;
+}
+
+nav{
+    width: 1000px;
+    height: 100px;
+    background-color: yellowgreen;
+}
+
+main{
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+}
+
+footer{
+    width: 1000px;
+    height: 50px;
+    background-color: orangered;
+}
+
+#banner{
+    width: 800px;
+    height: 300px;
+    float: left;
+    background-color: blue;
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: magenta;
+}
+
+#login{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: lawngreen;
+}
+
+#form{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: seagreen;
+}
+
+#left{
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: salmon;
+}
+
+article{
+    width: 500px;
+    height: 500px;
+    float: left;
+    background-color: firebrick;
+}
+
+#right{
+    width: 300px;
+    height: 500px;
+    float: left;
+    background-color: salmon;
+}
